@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-27T00:47:11 EET" name="Default suite" finished-at="2024-09-27T00:47:21 EET" duration-ms="10491">
+    <groups>
+    </groups>
+    <test started-at="2024-09-27T00:47:11 EET" name="Default test" finished-at="2024-09-27T00:47:21 EET" duration-ms="10491">
+      <class name="ClassThree">
+        <test-method is-config="true" signature="pub()[pri:0, instance:ClassThree@39dcf4b0]" started-at="2024-09-27T00:47:11 EET" name="pub" finished-at="2024-09-27T00:47:18 EET" duration-ms="6877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pub -->
+        <test-method signature="checkLanguageandcurrency()[pri:0, instance:ClassThree@39dcf4b0]" started-at="2024-09-27T00:47:18 EET" name="checkLanguageandcurrency" finished-at="2024-09-27T00:47:18 EET" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLanguageandcurrency -->
+        <test-method signature="checkPhonenumber()[pri:0, instance:ClassThree@39dcf4b0]" started-at="2024-09-27T00:47:18 EET" name="checkPhonenumber" finished-at="2024-09-27T00:47:18 EET" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPhonenumber -->
+        <test-method signature="checkhoteltab()[pri:0, instance:ClassThree@39dcf4b0]" started-at="2024-09-27T00:47:18 EET" name="checkhoteltab" finished-at="2024-09-27T00:47:18 EET" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkhoteltab -->
+        <test-method signature="checkthelogo()[pri:0, instance:ClassThree@39dcf4b0]" started-at="2024-09-27T00:47:18 EET" name="checkthelogo" finished-at="2024-09-27T00:47:18 EET" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkthelogo -->
+        <test-method signature="date()[pri:0, instance:ClassThree@39dcf4b0]" started-at="2024-09-27T00:47:18 EET" name="date" finished-at="2024-09-27T00:47:21 EET" duration-ms="3002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- date -->
+        <test-method signature="welcomeText()[pri:0, instance:ClassThree@39dcf4b0]" started-at="2024-09-27T00:47:21 EET" name="welcomeText" finished-at="2024-09-27T00:47:21 EET" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcomeText -->
+        <test-method is-config="true" signature="pup()[pri:0, instance:ClassThree@39dcf4b0]" started-at="2024-09-27T00:47:21 EET" name="pup" finished-at="2024-09-27T00:47:21 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pup -->
+      </class> <!-- ClassThree -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
